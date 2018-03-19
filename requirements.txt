@@ -1,5 +1,4 @@
 chardet==2.3.0
-codebug-i2c-tether==0.2.3
 codebug-tether==0.7.0
 codegen==1.0
 colorama==0.3.2
