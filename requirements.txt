@@ -2,7 +2,7 @@ chardet==2.3.0
 codebug-tether==0.7.0
 codegen==1.0
 colorama==0.3.2
-Django==2.0.2
+Django==2.2.13
 html5lib==0.999
 itsdangerous==0.24
 Jinja2==2.7.3
